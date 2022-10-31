@@ -46,7 +46,7 @@ const MainMenu = styled.div`
     vertical-align: top;
     display: inline-block;
     vertical-align: middle;
-    padding: 38px 10%;
+    padding: 38px 0;
 `
 
 const MainMenuNavigation = styled.ul`
