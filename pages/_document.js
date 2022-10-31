@@ -5,7 +5,7 @@ export default function Document() {
         <Html>
             <Head>
                 <meta name="robots" content="noindex, follow" />
-                <link href="http://fonts.cdnfonts.com/css/myriad-pro" rel="stylesheet" />
+                <link href="https://fonts.cdnfonts.com/css/myriad-pro" rel="stylesheet" />
             </Head>
             <body>
                 <Main />
